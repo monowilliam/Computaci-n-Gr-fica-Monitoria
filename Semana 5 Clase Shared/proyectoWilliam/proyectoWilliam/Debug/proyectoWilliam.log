@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  proyectoWilliam.cpp
+c:\users\monowilliam\desktop\computacion_grafica_monitoria\semana 5 clase shared\proyectowilliam\proyectowilliam\shader.h(53): warning C4101: 'infoLog': variable local sin referencia
+c:\users\monowilliam\desktop\computacion_grafica_monitoria\semana 5 clase shared\proyectowilliam\proyectowilliam\shader.h(52): warning C4101: 'success': variable local sin referencia
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  proyectoWilliam.vcxproj -> C:\Users\monowilliam\Desktop\Computacion_Grafica_Monitoria\Semana 5 Clase Shared\proyectoWilliam\Debug\proyectoWilliam.exe
+  proyectoWilliam.vcxproj -> C:\Users\monowilliam\Desktop\Computacion_Grafica_Monitoria\Semana 5 Clase Shared\proyectoWilliam\Debug\proyectoWilliam.pdb (Partial PDB)
