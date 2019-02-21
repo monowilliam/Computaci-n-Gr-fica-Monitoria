@@ -1,2 +1,2 @@
-# Computaci-n-Gr-fica-Monitoria
+# Computación Gráfica Monitoria
 Repositorio para CompuGráfica de la monitoria
